@@ -1,5 +1,6 @@
 <p>
     👋 Hello! I'm Ayush yadav <br>
+    <br>
     💻 I recently embarked on my coding journey,Currently exploring the realms of web development  <br>
     <br>
     📫 Let's connect! Feel free to reach out to me on GitHub or connect with me on LinkedIn.<br>
@@ -14,5 +15,31 @@
     <img src="https://img.shields.io/github/followers/ayush215mb?label=Follow&style=social" alt="Followers Count">
 </p>
 
+<br><br>
+
 ### ⚙️ Languages, Tools and Technologies
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" alt="Languages">
+
+<br><br>
+
+### 📊 Github Stats:
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush215mb&theme=midnight-purple"
+        alt="Prince Raj's Github Streaks" width="48%" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayush215mb&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
+        alt="Prince Raj's Github Stats" width="48%" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush215mb&theme=midnight-purple"
+        alt="Top Programming Languages" width="42%" align="top-right">
+</p>
+
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush215mb" alt="ayush215mb" width="92%"
+    align="center" />
+<br><br>
+
+### 🗼 Connect With Me:
+<p align="center">
+    <a href="https://www.linkedin.com/in/ayush215mb/" target="_blank"> <img
+            src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
+</p>
+
