@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ayush215mb" alt="Ayush yadav">
+    <img src="https://wakatime.com/badge/user/018e1e9b-fa9a-4c57-9db2-00aca6031ace.svg" alt="Ayush yadav" />
+    <img src="https://img.shields.io/github/followers/ayush215mb?label=Follow&style=social" alt="Followers Count">
+</p>
