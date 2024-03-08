@@ -1,5 +1,5 @@
 <p>
-    <br><br>
+    <br>
     👋 Hello! I'm Ayush yadav <br>
     <br>
     💻 I recently embarked on my coding journey,Currently exploring the realms of web development  <br>
@@ -42,5 +42,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ayush215mb/" target="_blank"> <img
             src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
+    <a href="https://www.instagram.com/ayush215mb/" target="_blank"> <img
+                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxxejZxNGh1Y2V3ZzZkN2hyeWo3bGNtZmZiZXBlcXRnZnM4MHNiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YwNCU8P5jGMNKGG5Bq/giphy-downsized-large.gif" height="120px" /> </a>
 </p>
 
