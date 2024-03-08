@@ -1,5 +1,11 @@
-### Hi there 👋
-
+<p>
+    👋 Hello! I'm Ayush yadav <br>
+    💻 I recently embarked on my coding journey,Currently exploring the realms of web development  <br>
+    📫 Let's connect! Feel free to reach out to me on GitHub or connect with me on LinkedIn.<br>
+    🚀 I'm open to collaborating with fellow developers and sharing ideas.
+    <br>
+   
+</p>
 <!--
 **Ayush215mb/ayush215mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
