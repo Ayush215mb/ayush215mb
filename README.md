@@ -42,7 +42,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ayush215mb/" target="_blank"> <img
             src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
-    <a href="https://www.instagram.com/ayush215mb/" target="_blank"> <img
-                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMxc2hlcnpwdGRreTl5OWI5NjNpOWVjbmlwZGZuOG11aHQxNWVsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcy4GyN8JQihT4JtqP/giphy.gif" height="110px" /> </a>
+   <!-- <a href="https://www.instagram.com/ayush215mb/" target="_blank"> <img
+                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMxc2hlcnpwdGRreTl5OWI5NjNpOWVjbmlwZGZuOG11aHQxNWVsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcy4GyN8JQihT4JtqP/giphy.gif" height="110px" /> </a>-->
 </p>
 
