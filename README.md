@@ -43,6 +43,6 @@
     <a href="https://www.linkedin.com/in/ayush215mb/" target="_blank"> <img
             src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
    <a href="https://www.instagram.com/ayush215mb/" target="_blank"> <img
-                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI3cWQ3dWw5cHlwcGRubmhldmoycHg2dzR2cmE3dnB5d2xkNTl3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZYPv7y2G1AFcb29lHm/giphy.gif" height="110px" /> </a>
+                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI3cWQ3dWw5cHlwcGRubmhldmoycHg2dzR2cmE3dnB5d2xkNTl3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZYPv7y2G1AFcb29lHm/giphy.gif" height="100px" /> </a>
 </p>
 
