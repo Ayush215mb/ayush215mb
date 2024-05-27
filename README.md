@@ -2,7 +2,7 @@
     <br>
     👋 Hello! I'm Ayush yadav <br>
     <br>
-    💻 I recently embarked on my coding journey,Currently exploring the realms of web development  <br>
+    💻 I recently embarked on my coding journey,Currently exploring the realms of Web development and App development.  <br>
     <br>
     📫 Let's connect! Feel free to reach out to me on GitHub or connect with me on LinkedIn.<br>
      <br>
