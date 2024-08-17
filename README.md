@@ -8,9 +8,7 @@
      <br>
     🚀 I'm open to collaborating with fellow developers and sharing ideas.<br>
     <br>
-     <a href="https://ayush215mb.vercel.app/">
-     <p>Click on this text to see my portfolio</p>
-</a>
+     
    
 </p>
 
@@ -44,10 +42,14 @@
 <br><br>
 
 ### 🗼 Connect With Me:
-<p align="center">
+<p align="center" >
     <a href="https://www.linkedin.com/in/ayush215mb/" target="_blank"> <img
             src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif" height="110px" /> </a>
    <a href="https://www.instagram.com/ayush215mb?igsh=MWk4OGRtMW11Mzl0aA==" target="_blank"> <img
                 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI3cWQ3dWw5cHlwcGRubmhldmoycHg2dzR2cmE3dnB5d2xkNTl3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZYPv7y2G1AFcb29lHm/giphy.gif" height="100px" /> </a>
+    <a href="https://ayush215mb.vercel.app/" target="_blank"  >
+    <img  src="https://ayush215mb.vercel.app/Images/apple-touch-icon.png" height="70px"/>
+    </a>
+
 </p>
 
